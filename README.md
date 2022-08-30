@@ -1,1 +1,1 @@
-# MANalyticsTE
+# TEAnalyticsInvestments
